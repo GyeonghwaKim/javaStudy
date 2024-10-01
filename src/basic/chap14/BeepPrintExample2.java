@@ -1,5 +1,7 @@
 package basic.chap14;
 
+import basic.chap16.Workable;
+
 import java.awt.*;
 
 public class BeepPrintExample2 {
@@ -26,6 +28,7 @@ public class BeepPrintExample2 {
             trySleep500();
 
         }
+
     }
 
     private static void trySleep500() {
